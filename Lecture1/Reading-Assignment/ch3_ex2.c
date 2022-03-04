@@ -5,7 +5,7 @@ int main(void)
     int i;
     float x;
 
-    //Constant value
+    //Constant values
     i = 40;             //value for i
     x = 839.21f;        //value for x
 
